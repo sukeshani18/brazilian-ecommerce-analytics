@@ -1,5 +1,5 @@
 # Brazilian E-Commerce Analytics Dashboard
-![Dashboard](Dashboard_Showcase.png)
+![Dashboard](Dashboard__Showcase.png)
 
 ## Project Overview
 
