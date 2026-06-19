@@ -1,5 +1,5 @@
 # Brazilian E-Commerce Analytics Dashboard
-![Dashboard](Dashboard_Showcase.png "Power BI dashboard showing brazilian ecommerce analysis")
+![Dashboard](Dashboard_Showcase.png)
 
 ## Project Overview
 
